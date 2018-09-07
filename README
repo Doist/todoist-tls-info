@@ -1,0 +1,2 @@
+Command todoist-tls-info connects to todoist.com:443 and dumps TLS session
+info to stdout and todoist-tls-info.txt file.
